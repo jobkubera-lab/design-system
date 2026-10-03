@@ -1,3 +1,7 @@
+> **KUBERA REFERENCE / UPSTREAM STUDY REPOSITORY**
+>
+> This repository is retained by `jobkubera-lab` for reference and engineering study. It is not presented as original KUBERA code. Original upstream authorship and licensing remain authoritative. Upstream: [NHS-digital-website/design-system](https://github.com/NHS-digital-website/design-system).
+
 # NHSD Design System
 
 The NHSD design system provides everything you need to build accessible user interfaces for NHS Digital websites and services.
